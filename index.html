@@ -124,19 +124,35 @@
         }
 
         .button-download {
-            background: #FF9800;
+            background: #DC143C;
             color: white;
             display: flex;
             align-items: center;
             justify-content: center;
             gap: 10px;
             text-decoration: none;
+            position: relative;
         }
 
         .button-download:hover {
-            background: #F57C00;
+            background: #B22222;
             transform: translateY(-2px);
-            box-shadow: 0 5px 20px rgba(255, 152, 0, 0.4);
+            box-shadow: 0 5px 20px rgba(220, 20, 60, 0.4);
+        }
+
+        .arrow-down {
+            display: inline-block;
+            animation: bounce 2s infinite;
+            font-size: 20px;
+        }
+
+        @keyframes bounce {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(8px);
+            }
         }
 
         .info-box {
@@ -380,7 +396,8 @@
                     </a>
 
                     <button onclick="downloadSite()" class="button button-download">
-                        ⬇️ Télécharger le site (Offline)
+                        <span class="arrow-down">⬇️</span>
+                        Télécharger le site (Offline)
                     </button>
                 </div>
 
