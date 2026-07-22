@@ -123,6 +123,22 @@
             box-shadow: 0 5px 20px rgba(76, 175, 80, 0.4);
         }
 
+        .button-download {
+            background: #FF9800;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            text-decoration: none;
+        }
+
+        .button-download:hover {
+            background: #F57C00;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(255, 152, 0, 0.4);
+        }
+
         .info-box {
             background: #f0f4ff;
             border-left: 4px solid #667eea;
@@ -215,6 +231,7 @@
             gap: 10px;
             justify-content: center;
             flex-wrap: wrap;
+            flex-direction: column;
         }
 
         .contact-btn {
@@ -227,6 +244,10 @@
             transition: all 0.3s;
             border: none;
             cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
         }
 
         .contact-btn:hover {
@@ -240,6 +261,12 @@
             text-align: center;
             color: #666;
             font-size: 14px;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+            flex-direction: column;
         }
 
         @media (max-width: 600px) {
@@ -332,8 +359,12 @@
                     <h3>📞 Besoin d'aide?</h3>
                     <p style="margin-bottom: 10px; font-size: 14px;">Contactez notre équipe de support:</p>
                     <div class="support-contacts">
-                        <a href="tel:+50956147813" class="contact-btn">📱 +509 5614-7813</a>
-                        <a href="tel:+50942828554" class="contact-btn">📱 +509 4282-8554</a>
+                        <a href="https://wa.me/50956147813?text=Bonjour%20Kario%20TopUp" target="_blank" class="contact-btn">
+                            ➜ WhatsApp: +509 5614-7813
+                        </a>
+                        <a href="https://wa.me/50942828554?text=Bonjour%20Kario%20TopUp" target="_blank" class="contact-btn">
+                            ➜ WhatsApp: +509 4282-8554
+                        </a>
                     </div>
                 </div>
             </div>
@@ -343,15 +374,22 @@
                 <h2>📲 Installer l'application BLUEN</h2>
                 <p>Pour une meilleure expérience, téléchargez notre application mobile!</p>
                 
-                <a href="https://play.google.com/store/apps/details?id=com.bluen.topup" target="_blank" class="button button-install">
-                    🎮 Installer BLUEN sur Google Play
-                </a>
+                <div class="button-group">
+                    <a href="https://play.google.com/store/apps/details?id=com.bluen.topup" target="_blank" class="button button-install">
+                        🎮 Installer BLUEN sur Google Play
+                    </a>
+
+                    <button onclick="downloadSite()" class="button button-download">
+                        ⬇️ Télécharger le site (Offline)
+                    </button>
+                </div>
 
                 <p style="margin-top: 15px; font-size: 14px; color: #999;">
                     ✓ Recharge plus rapide<br>
                     ✓ Transactions sécurisées<br>
                     ✓ Historique complet<br>
-                    ✓ Offres exclusives
+                    ✓ Offres exclusives<br>
+                    ✓ Utilisable sans connexion
                 </p>
             </div>
         </div>
@@ -410,6 +448,33 @@
             errorDiv.textContent = '✗ ' + message;
             errorDiv.style.display = 'block';
             document.getElementById('successMessage').style.display = 'none';
+        }
+
+        function downloadSite() {
+            // Créer le contenu HTML complet
+            const htmlContent = document.documentElement.outerHTML;
+            
+            // Créer un Blob avec le contenu
+            const blob = new Blob([htmlContent], { type: 'text/html' });
+            
+            // Créer une URL pour le Blob
+            const url = window.URL.createObjectURL(blob);
+            
+            // Créer un lien de téléchargement
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = 'Kario-TopUp.html';
+            
+            // Déclencher le téléchargement
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            
+            // Libérer les ressources
+            window.URL.revokeObjectURL(url);
+            
+            // Message de confirmation
+            alert('✓ Site téléchargé! Ouvrez le fichier "Kario-TopUp.html" sur votre téléphone.');
         }
     </script>
 </body>
