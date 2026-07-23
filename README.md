@@ -40,7 +40,7 @@ Topup rapide epi sécurisée pou jwe ou yo.
 - 1166 💎 Diamants — 1650 Gourdes
 - 1386 💎 Diamants — 1950 Gourdes
 - 3564 💎 Diamants — 4750 Gourdes
-- 6160 💎 Diamants — 7550 Gourdes                                                                                                                  
+- 6160 💎 Diamants — 7550 Gourdes                                                                                                                                        
   📞 Besoin de plus d’informations ?
 Notre équipe est à votre disposition pour répondre à toutes vos questions concernant nos services de recharge.
 Si vous avez besoin d’aide, d’informations supplémentaires ou d’assistance pour votre commande, contactez-nous directement par téléphone ou WhatsApp.
