@@ -15,7 +15,16 @@ Topup rapide epi sécurisée pou jwe ou yo.
 **Nimewo WhatsApp:** [+509 56147813](https://wa.me/50956147813)
 <img src="natcash-logo.png" alt="Logo NatCash" width="120">
 
-<p>Payez facilement avec NatCash</p>Nimewo Natcash payment-metode💳 Paiement avek natcash numéro +509 56147814
+ <div class="payment-card">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/120px-Placeholder_view_vector.svg.png" alt="NatCash Logo">
+    
+    <h3>💳 NatCash</h3>
+    <p>Envoyez le paiement sur notre compte NatCash</p>
+
+    <input type="text" placeholder="Votre numéro NatCash">
+    
+    <button>Confirmer le paiement</button>
+</div>Nimewo Natcash payment-metode💳 Paiement avek natcash numéro +509 56147814
 
     
 
