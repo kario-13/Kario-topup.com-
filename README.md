@@ -22,7 +22,7 @@ Topup rapide epi sécurisée pou jwe ou yo.
 
     
     
-    <</div>Nimewo Natcash payment-metode💳 Paiement avek natcash numéro +509 56147814
+    Nimewo Natcash payment-metode💳 Paiement avek natcash numéro +509 56147814
 
     
 
