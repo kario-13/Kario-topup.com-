@@ -20,7 +20,7 @@ Topup rapide epi sécurisée pou jwe ou yo.
     <h3>💳 NatCash</h3>
     <p>Envoyez le paiement sur notre compte NatCash</p>
 
-    <input type="text" placeholder="Votre numéro NatCash">
+    
     
     <button>Confirmer le paiement</button>
 </div>Nimewo Natcash payment-metode💳 Paiement avek natcash numéro +509 56147814
