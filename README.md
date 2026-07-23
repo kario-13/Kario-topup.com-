@@ -53,41 +53,8 @@ Merci de faire confiance à Kario TopUp.
 ---
 
 **👌 Recharge rapide. Sèvis fiab. Diamants FF disponibles. 🇭🇹**
-                <a href="#" class="download-btn" onclick="downloadSite()">
+                                                                                       <a href="#" class="download-btn"       onclick="downloadSite()">
     ⬇️ Télécharger le site
-</a>
 
-<style>
-.download-btn {
-    display: block;
-    width: 100%;
-    padding: 15px;
-    background: #2563eb;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 10px;
-    font-size: 18px;
-    font-weight: bold;
-    margin-top: 20px;
-}
 
-.download-btn:hover {
-    background: #1d4ed8;
-}
-</style>
 
-<script>
-function downloadSite() {
-    const html = document.documentElement.outerHTML;
-    const blob = new Blob([html], {type: "text/html"});
-    const url = URL.createObjectURL(blob);
-
-    const link = document.createElement("a");
-    link.href = url;
-    link.download = "Kario-TopUp.html";
-    link.click();
-
-    URL.revokeObjectURL(url);
-}
-</script>
