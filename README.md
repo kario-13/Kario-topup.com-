@@ -55,6 +55,39 @@ Merci de faire confiance à Kario TopUp.
 **👌 Recharge rapide. Sèvis fiab. Diamants FF disponibles. 🇭🇹**
                                                                                         <a href="#" class="download-btn"           onclick="downloadSite()">
                                                ⬇️ Télécharger le site
+img width="1027" height="612" alt="IMG-20260716-WA0020" src="https://github.com/user-attachments/assets/128b4468-a364-40e3-b30c-53a916427810" />
 
 
+🏠 Page d’accueil
+Bannière principale :
+🔥 Recharge tes diamants Free Fire rapidement
+✅ Livraison instantanée
+✅ Prix compétitifs
+✅ Paiement sécurisé.          💎 Section Produits
+Cartes avec :
+🔥 100 Diamants
+Prix : XX $
+Livraison : Instantanée
+Bouton : Acheter
+🔥 310 Diamants
+🔥 520 Diamants
+🔥 1060 Diamants
+🔥 Pass Élite Free Fire
 
+**Full Changelog**: https://github.com/kario-13/Kario-topup.com-/commits/Rapide.                     Numéro natcash +509 5614 78 13.                             <div class="form-group">
+    <label for="playerId">🎮 ID du joueur</label>
+    <input type="text" id="playerId" name="playerId" placeholder="Entrez votre ID joueur" required>
+</div><div class="form-group">
+    <label for="playerId">🎮 ID du joueur</label>
+    <input
+        type="text"
+        id="playerId"
+        name="playerId"
+        placeholder="Ex : 1234567890"
+        maxlength="10"
+        required>
+    <small>Exemple : 1234567890</small>
+</div><input type="text" placeholder="Ex : 1234567890"><div class="form-group">
+    <label for="playerId"><strong>🎮 UID du joueur _______________
+
+               
