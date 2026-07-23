@@ -11,9 +11,15 @@ Topup rapide epi sécurisée pou jwe ou yo.
 ## 📱 Kontakte Nou
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50956147813)
-Paiement par natcash numéro +509 56147813
-**Nimewo WhatsApp:** [+509 56147813](https://wa.me/50956147813)
 
+**Nimewo WhatsApp:** [+509 56147813](https://wa.me/50956147813)
+Nimewo Natcash <div class="payment-method">
+    <h3>💳 Paiement avec NatCash</h3>
+
+    <img src="natcash-logo.png" alt="Logo NatCash" width="120">
+
+    <p>Payez facilement avec NatCash</p>
+</div> +509 56147813
 ---
 
 ## 💰 Priz Diamant Free Fire
