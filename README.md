@@ -78,38 +78,9 @@ Bouton : Acheter
     <label for="playerId">🎮 ID du joueur</label>
     <input type="text" id="playerId" name="playerId" placeholder="Entrez votre ID joueur" required>
 </div><div class="form-group">
-    <label for="playerId">🎮 ID du joueur</label>
-    <input
-        type="text"
-        id="playerId"
-        name="playerId"
-        placeholder="Ex : 1234567890"
-        maxlength="10"
-        required>
-    <small>Exemple : 1234567890</small>
-</div><input type="text" placeholder="Ex : 1234567890"><div class="form-group">
-    <label for="playerId"><strong>🎮 UID du joueur ___<div class="form-group">
-    <label for="playerId"><strong>🎮 ID du joueur</strong></label>
-
-    <div style="display:flex; gap:10px;">
-        <input
-            type="text"
-            id="playerId"
-            name="playerId"
-            placeholder="Ex : 1234567890"
-            required
-            style="flex:1; padding:14px; border:2px solid #3b82f6; border-radius:10px; font-size:16px;">
-
-        <button
-            type="button"
-            style="background:#3b82f6; color:white; border:none; padding:14px 18px; border-radius:10px; cursor:pointer;">
-            Vérifier
-        </button>
-    </div>
-
-    <small style="color:#666;">
-        Entrez votre ID Free Fire (Ex : 1234567890)
-    </small>
+    <label for="playerId">🎮 ID du joueur ----------
+    
+        
 </div>____________
 
                
