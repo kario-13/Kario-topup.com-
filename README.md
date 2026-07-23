@@ -41,7 +41,15 @@ Topup rapide epi sécurisée pou jwe ou yo.
 - 1386 💎 Diamants — 1950 Gourdes
 - 3564 💎 Diamants — 4750 Gourdes
 - 6160 💎 Diamants — 7550 Gourdes
-
+  📞 Besoin de plus d’informations ?
+Notre équipe est à votre disposition pour répondre à toutes vos questions concernant nos services de recharge.
+Si vous avez besoin d’aide, d’informations supplémentaires ou d’assistance pour votre commande, contactez-nous directement par téléphone ou WhatsApp.
+✅ Service client disponible
+✅ Assistance rapide
+✅ Réponse à vos questions
+Contactez-nous :
+📱 WhatsApp / Téléphone : +509 56147813
+Merci de faire confiance à Kario TopUp.
 ---
 
 **👌 Recharge rapide. Sèvis fiab. Diamants FF disponibles. 🇭🇹**
