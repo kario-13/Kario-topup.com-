@@ -13,8 +13,10 @@ Topup rapide epi sécurisée pou jwe ou yo.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50956147813)
 
 **Nimewo WhatsApp:** [+509 56147813](https://wa.me/50956147813)
-d144965d8de439a0d8d6689b85fe4093.jpg
-    
+
+ [![NatCash](https://img.shields.io/badge/NatCash-Paiement-blue?style=for-the-badge)](#)
+
+**Nimewo NatCash:** VOTRE_NUMERO   
     <h3>💳 NatCash</h3>
     <p>Envoyez le paiement sur notre compte NatCash</p>
 
