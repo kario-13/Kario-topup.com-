@@ -65,3 +65,17 @@ Pourquoi choisir Kario TopUp ?
 - Satisfaction des clients au cœur de nos priorités.
 
 Nous travaillons chaque jour pour améliorer nos services et vous offrir la meilleure expérience possible. Merci de faire confiance à Kario TopUp. Nous vous souhaitons d'excellentes parties et beaucoup de victoires !
+          💰 Prix Diamant Free Fire 
+
+- 220 💎 Diamants — 250 Gourdes
+- 341 💎 Diamants — 500 Gourdes
+- 451 💎 Diamants — 600 Gourdes
+- 572 💎 Diamants — 850 Gourdes
+- 682 💎 Diamants — 970 Gourdes
+- 1023 💎 Diamants — 1700 Gourdes
+- 1166 💎 Diamants — 1650 Gourdes
+- 1386 💎 Diamants — 1950 Gourdes
+- 3564 💎 Diamants — 4750 Gourdes
+- 6160 💎 Diamants — 7550 Gourdes                                                                                                                                        
+  📞 Besoin de plus d’informations ?
+Notre équipe est à votre disposition 
